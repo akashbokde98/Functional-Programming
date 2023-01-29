@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.AssemblyInfo.cs
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\bin\Debug\netcoreapp3.1\VowelConsonent.exe
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\bin\Debug\netcoreapp3.1\VowelConsonent.deps.json
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\bin\Debug\netcoreapp3.1\VowelConsonent.runtimeconfig.json
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\bin\Debug\netcoreapp3.1\VowelConsonent.runtimeconfig.dev.json
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\bin\Debug\netcoreapp3.1\VowelConsonent.dll
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\bin\Debug\netcoreapp3.1\VowelConsonent.pdb
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.dll
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.pdb
+C:\Users\hp\source\repos\VowelConsonent\VowelConsonent\obj\Debug\netcoreapp3.1\VowelConsonent.genruntimeconfig.cache

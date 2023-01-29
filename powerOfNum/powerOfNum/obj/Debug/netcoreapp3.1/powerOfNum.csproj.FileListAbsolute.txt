@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.AssemblyInfo.cs
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\bin\Debug\netcoreapp3.1\powerOfNum.exe
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\bin\Debug\netcoreapp3.1\powerOfNum.deps.json
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\bin\Debug\netcoreapp3.1\powerOfNum.runtimeconfig.json
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\bin\Debug\netcoreapp3.1\powerOfNum.runtimeconfig.dev.json
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\bin\Debug\netcoreapp3.1\powerOfNum.dll
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\bin\Debug\netcoreapp3.1\powerOfNum.pdb
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.dll
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.pdb
+C:\Users\hp\source\repos\powerOfNum\powerOfNum\obj\Debug\netcoreapp3.1\powerOfNum.genruntimeconfig.cache

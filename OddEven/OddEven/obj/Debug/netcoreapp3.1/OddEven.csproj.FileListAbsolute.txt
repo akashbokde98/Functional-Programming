@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.exe
+C:\Users\hp\source\repos\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.deps.json
+C:\Users\hp\source\repos\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.json
+C:\Users\hp\source\repos\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.dev.json
+C:\Users\hp\source\repos\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.dll
+C:\Users\hp\source\repos\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.pdb
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfo.cs
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.dll
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.pdb
+C:\Users\hp\source\repos\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.genruntimeconfig.cache
